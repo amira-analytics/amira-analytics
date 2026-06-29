@@ -13,4 +13,4 @@ Here are some of the projects I've worked on:
 - **Data Analysis**: SQL, Performance KPIs, Reporting
 
 ---
-📫 You can reach out to me via my [LinkedIn profile]([www.linkedin.com/in/amira-mohamed-data](https://www.linkedin.com/in/amira-mohamed-data/))
+📫 You can reach out to me via my [LinkedIn profile](https://www.linkedin.com/in/amira-mohamed-data/)
