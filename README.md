@@ -1,16 +1,16 @@
 ## Hi there 👋
+## 👋 Hello, I'm Amira Mohamed
+I am a Data Analyst passionate about turning raw data into actionable insights through Power BI, SQL, and Excel.
 
-<!--
-**amira-analytics/amira-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 My Featured Projects
+Here are some of the projects I've worked on:
 
-Here are some ideas to get you started:
+* **[Sales Dashboard Analysis](https://github.com/amira-analytics/sales-dashboard-analysis)**: Interactive dashboard built with Power BI to analyze global sales performance.
+* **[Call Center Analytics](https://github.com/amira-analytics/Call-Center-Analytics)**: Operational analysis using Excel to optimize agent productivity and customer satisfaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Data Visualization**: Power BI, Excel
+- **Data Analysis**: SQL, Performance KPIs, Reporting
+
+---
+📫 You can reach out to me via my [LinkedIn profile]([www.linkedin.com/in/amira-mohamed-data](https://www.linkedin.com/in/amira-mohamed-data/))
